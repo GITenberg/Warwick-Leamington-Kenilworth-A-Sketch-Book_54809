@@ -1,5 +1,8 @@
 _repo: Warwick-Leamington-Kenilworth-A-Sketch-Book_54809
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54809-h/images/cover.jpg
 creator:
   author:
     agent_name: Austin, R.S. (Robert Sargent)
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48053
     wikipedia: https://en.wikipedia.org/wiki/Robert_Austin_(artist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54809#Warwick-Leamington-Kenilworth-A-Sketch-Book
 gutenberg_issued: '2017-05-29'
 gutenberg_type: Text
 identifiers:
