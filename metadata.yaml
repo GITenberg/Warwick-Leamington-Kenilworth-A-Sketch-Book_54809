@@ -1,0 +1,23 @@
+_repo: Warwick-Leamington-Kenilworth-A-Sketch-Book_54809
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Austin, R.S. (Robert Sargent)
+    birthdate: 1895
+    deathdate: 1973
+    gutenberg_agent_id: '48053'
+    url: http://www.gutenberg.org/2009/agents/48053
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Austin_(artist)
+description: ''
+gutenberg_issued: '2017-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54809'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Warwick, Leamington & Kenilworth; A Sketch-Book
+url: http://www.gutenberg.org/ebooks/54809
